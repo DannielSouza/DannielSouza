@@ -23,7 +23,7 @@ Estou a procura de uma oportunidade de um dev Jr Front-End."
 
 <div align="center" style="display: inline_block text-align:center"><br>
   
-  Conhecimento:
+  <h3>Conhecimento:</h3>
   <br>
   
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
