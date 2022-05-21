@@ -10,7 +10,7 @@ var objetivo =
 "Minha meta é ser um dev full-stack, todos os dias acordo com o objetivo de ser melhor do que eu era no dia anterior,
 atualmente estou estudando Javascript e back-end com NodeJs no geral. 
 
-Estou a procura de uma oportunidade de um dev Jr Front-End."
+Estou a procura de uma oportunidade de um dev Jr Front-End."}
 
 ```
 <br>
