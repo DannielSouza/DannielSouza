@@ -1,7 +1,7 @@
 
 ```dart
 
-                                                          object ** BIO ** {
+                                                   object ** BIO ** {
 
 var sobre = "Olá! Eu sou o Daniel e tenho 20 anos"
  
