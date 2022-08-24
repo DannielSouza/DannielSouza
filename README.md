@@ -7,7 +7,7 @@ var sobre = "Olá! Eu sou o Daniel e tenho 20 anos"
  
  
 var objetivo = 
-"Minha meta é ser um dev full-stack, e para isso todos os dias acordo com o objetivo de ser melhor do que eu era no dia anterior,
+"Minha meta é ser um dev full-stack, para isso todos os dias acordo com o objetivo de ser melhor do que eu era no dia anterior,
 estou tendo muito sucesso nisso pois estou amando estudar front-end! Atualmente estou estudando e fazendo projetos de ReactJS.
 
 Estou a procura de uma oportunidade de um dev Jr Front-End."}
