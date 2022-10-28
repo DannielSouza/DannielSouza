@@ -16,10 +16,10 @@ Estou a procura de uma oportunidade de um dev Jr Front-End."}
 ```
 <br>
 
-<div align="center">
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=DannielSouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center" >
+  <img width="500px" height="180em" src="https://github-readme-stats.vercel.app/api?username=DannielSouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
-  <img width="54%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannielSouza&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="1000px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannielSouza&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div align="center" style="display: inline_block text-align:center"><br>
