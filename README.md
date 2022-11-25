@@ -1,12 +1,14 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7726E1&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7726E1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Daniel+Souza!;Desenvolvedor+Front-End.;Desenvolvedor+Back-End.)](https://git.io/typing-svg)
+
+<br>
 
 ```dart
 
                                                    object ** BIO ** {
 
-var sobre = "Olá! Eu sou o Daniel e tenho 20 anos"
- 
- 
-var objetivo = 
+objetivo: 
 "Minha meta é ser um dev full-stack, para isso todos os dias acordo com o objetivo de ser melhor do que eu era no dia anterior,
 estou tendo muito sucesso nisso fazendo projetos cada vez mais complexos! Atualmente estou estudando e fazendo projetos
 usando o front-end e o back-end.
@@ -17,11 +19,9 @@ Estou a procura de uma oportunidade de um dev Jr Front-End ou Full-stack."}
 <br>
 
 <div align="center" >
-  <img width="600px" height="180em" src="https://github-readme-stats.vercel.app/api?username=DannielSouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
-  <img width="1200px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannielSouza&layout=compact&langs_count=7&theme=dracula"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DannielSouza&show_icons=true&count_private=true&hide_border=true&title_color=7726E1&icon_color=7726E1&text_color=F5F5F5&bg_color=0d1117" alt="Daniel Souza github stats" /> 
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannielSouza&layout=compact&hide_border=true&title_color=7726E1&text_color=F5F5F5&bg_color=0d1117" />
 </div>
-
 <div align="center" style="display: inline_block text-align:center"><br>
   
   <h3>Linguagens e ferramentas</h3>
@@ -39,3 +39,6 @@ Estou a procura de uma oportunidade de um dev Jr Front-End ou Full-stack."}
   
   
 </div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7726E1&height=120&section=footer"/>
