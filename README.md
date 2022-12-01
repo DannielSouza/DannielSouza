@@ -9,7 +9,7 @@
                                                    object ** BIO ** {
 
 objetivo: 
-"Minha meta é ser um dev full-stack, para isso todos os dias acordo com o objetivo de ser melhor do que eu era no dia anterior,
+"Minha meta é ser um dev full-stack, para isso, todos os dias acordo com o objetivo de ser melhor do que eu era no dia anterior,
 estou tendo muito sucesso nisso fazendo projetos cada vez mais complexos! Atualmente estou estudando e fazendo projetos
 usando o front-end e o back-end.
 
