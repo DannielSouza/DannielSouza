@@ -13,7 +13,7 @@ objetivo:
 estou tendo muito sucesso nisso fazendo projetos cada vez mais complexos! Atualmente estou estudando e fazendo projetos
 usando o front-end e o back-end.
 
-Estou a procura de uma oportunidade de um dev Jr Front-End ou Full-stack."}
+Estou a procura de uma oportunidade de um dev Jr Front-End, Back-End ou Full-stack."}
 
 ```
 <br>
