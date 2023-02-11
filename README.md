@@ -6,14 +6,13 @@
 
 ```dart
 
-                                                   object ** BIO ** {
+                                                  object ** BIO ** {
 
 objetivo: 
-"Minha meta é ser um dev full-stack, para isso, todos os dias acordo com o objetivo de ser melhor do que eu era no dia anterior,
-estou tendo muito sucesso nisso fazendo projetos cada vez mais complexos! Atualmente estou estudando e fazendo projetos
-usando o front-end e o back-end.
+"Sou um desenvolvedor full-stack mais especializado no conjunto de tecnologias do javascript, atualmente também estou fazendo
+projetos no mundo Java, juntando todos conhecimentos que possuo como pequenas peças de quebra-cabeça e formando um enorme resultado.
 
-Estou a procura de uma oportunidade de um dev Jr Front-End, Back-End ou Full-stack."}
+Estou a procura de uma oportunidade de um dev júnior ou estágiario Front-End, Back-End ou Full-stack."}
 
 ```
 <br>
