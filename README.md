@@ -8,11 +8,11 @@
 
                                                   object ** BIO ** {
 
-objetivo: 
-"Sou um desenvolvedor full-stack mais especializado no conjunto de tecnologias do javascript, atualmente também estou fazendo
-projetos no mundo Java, juntando todos conhecimentos que possuo como pequenas peças de quebra-cabeça e formando um enorme resultado.
+resumo: "Sou um desenvolvedor full-stack mais especializado no conjunto de tecnologias do javascript, atualmente também
+estou fazendo projetos no mundo Java, juntando todos conhecimentos que possuo como pequenas peças de quebra-cabeça,
+formando um resultado grandioso.",
 
-Estou a procura de uma oportunidade de um dev júnior ou estágiario Front-End, Back-End ou Full-stack."}
+objetivo: "Estou a procura de uma oportunidade de um dev júnior ou estágiario Front-End, Back-End ou Full-stack."}
 
 ```
 <br>
