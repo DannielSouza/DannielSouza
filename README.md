@@ -8,9 +8,9 @@
 
                                                   object ** BIO ** {
 
-resumo: "Sou um desenvolvedor full-stack mais especializado no conjunto de tecnologias do javascript, e também com
-um certo conhecimento em Java, juntando todos conhecimentos que possuo como pequenas peças de quebra-cabeça,
-formando um resultado grandioso."
+resumo: "Sou um desenvolvedor full-stack mais especializado no conjunto de tecnologias do javascript e também 
+em Java, juntando todos conhecimentos que possuo como pequenas peças de quebra-cabeça,formando um resultado
+grandioso."
 ```
 <br>
 
